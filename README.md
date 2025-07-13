@@ -20,7 +20,6 @@ AviUtl2フォルダ内に作成する`Plugins`と`C:\ProgramData`配下の`Plugi
 
 
 ## 使い方
-
 1.  `変更内容の比較`を押します。
 2.  差分があった場合は、同期の方向を選びます。
     *   **ProgramDataに反映**: ローカル(`Plugins`フォルダ)の内容を`ProgramData`に上書きします。
@@ -28,9 +27,13 @@ AviUtl2フォルダ内に作成する`Plugins`と`C:\ProgramData`配下の`Plugi
 3.  コメント(任意)を入力して実行する。
 4.  間違えた場合はバックアップ管理から復元してください。
 
-<img width="702" height="632" alt="image" src="https://github.com/user-attachments/assets/a2c06bfe-8a8b-4cfe-90b8-6130f95e2320" />
+https://x.com/kanade_tuku/status/1944256461716304391 に動画で載せています
 
 ## 既知のバグ
 
 *   最終確認のダイアログボックスが画面の左上（座標 0,0）に表示される。
 *   バグではないですが、AviUtl2フォルダ以外でも導入2の3つあれば機能はしますが、分かりやすいようにAviUtl2フォルダ内を推奨します。
+
+## 連絡先
+https://x.com/kanade_tuku
+  https://x.com/kanade_tuku

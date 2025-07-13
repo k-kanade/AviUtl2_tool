@@ -2,7 +2,7 @@
 
 AviUtl2のプラグインやスクリプトの管理が少し楽になるかもしれないツールです。
 
-AviUtl2フォルダ内に作成する`Plugins`と`C:\ProgramData`配下の`Plugins`フォルダの状態を比較し、同期することができます。
+AviUtl2フォルダ内に作成する`Plugins`と`C:\ProgramData`配下の`Plugin`フォルダの状態を比較し、同期することができます。
 
 これにより、ProgramDataを開かなくてもプラグインなどを追加する事ができます。
 

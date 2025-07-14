@@ -40,4 +40,3 @@ https://x.com/kanade_tuku/status/1944256461716304391 に動画で載せていま
 
 ## 連絡先
 https://x.com/kanade_tuku
-  https://x.com/kanade_tuku
